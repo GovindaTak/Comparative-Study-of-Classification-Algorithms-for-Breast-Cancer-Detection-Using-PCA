@@ -1,0 +1,2 @@
+# Comparative-Study-of-Classification-Algorithms-for-Breast-Cancer-Detection-Using-PCA
+This repository provides an analysis of classification algorithms on the breast cancer dataset, emphasizing the role of Principal Component Analysis (PCA) for dimensionality reduction. The project aims to identify the most effective model for predicting breast cancer diagnoses, offering insights into each algorithm's performance after applying PCA.
