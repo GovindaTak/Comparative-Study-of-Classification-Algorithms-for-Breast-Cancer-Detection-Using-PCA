@@ -6,7 +6,7 @@ This repository provides an analysis of classification algorithms on the breast 
 ## **Overview**  
 This project demonstrates the use of **Principal Component Analysis (PCA)** for dimensionality reduction and evaluates the performance of multiple classification models. The study includes **Logistic Regression**, **Decision Trees**, **Random Forest**, **K-Nearest Neighbors (KNN)**, and **Support Vector Machines (SVM)** to assess how PCA influences model performance.  
 
----
+----------------------------
 
 ## **Key Highlights**  
 - **Dimensionality Reduction with PCA**:  
