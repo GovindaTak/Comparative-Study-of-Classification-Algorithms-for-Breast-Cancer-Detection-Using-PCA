@@ -16,7 +16,7 @@ This project demonstrates the use of **Principal Component Analysis (PCA)** for 
 - **Insights Visualization**:  
   Comparative results presented through detailed charts and visualizations.  
 
----
+------
 
 ## **Technologies Used**  
 - **Python**  
