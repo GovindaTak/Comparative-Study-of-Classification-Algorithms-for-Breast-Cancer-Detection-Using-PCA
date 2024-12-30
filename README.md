@@ -26,7 +26,7 @@ This project demonstrates the use of **Principal Component Analysis (PCA)** for 
 - **Matplotlib**  
 - **Seaborn**  
 
----
+-------
 
 ## **How to Use**  
 
